@@ -34,5 +34,5 @@
 ### Eksempel:
 
 ```javascript
-console.log('hej verden")
+console.log('hej verden')
 ```
