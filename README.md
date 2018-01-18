@@ -1,7 +1,7 @@
 # igang-med-github1
 # Opgave: Markdown
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![SIMON](images/bum.JPG)
 
 * ## Create a new repository
 
