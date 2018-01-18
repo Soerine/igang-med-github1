@@ -1,6 +1,8 @@
 # igang-med-github1
 # Opgave: Markdown
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 * ## Create a new repository
 
 *Gå til [GitHub](http://github.com) , login og tryk __Create a new repository__*
@@ -23,11 +25,11 @@
 
 * ## Push
 
-Gem det dokument, som du har valgt at redigere. Tryk på __gaflen__ ude i venstre side af visual studio, (knappen under forstørrelsesglasset) Skriv en besked i den forkantede boks, og tryk på plus ud fra dokumentet, som du ønsker at pushe. Tryk derefter på de tre punktummer i højre hjørne lige over din __message__ > tryk __commit staged__ - log evt ind, tryk __push__ i de samme tre prikker og tjek derefter din github, hvor du gerne skulle kunne se dit nye dokument nu.
+*Gem det dokument, som du har valgt at redigere. Tryk på __gaflen__ ude i venstre side af visual studio, (knappen under forstørrelsesglasset) Skriv en besked i den forkantede boks, og tryk på plus ud fra dokumentet, som du ønsker at pushe. Tryk derefter på de tre punktummer i højre hjørne lige over din __message__ > tryk __commit staged__ - log evt ind, tryk __push__ i de samme tre prikker og tjek derefter din github, hvor du gerne skulle kunne se dit nye dokument nu.*
 
 * ## Console.log
 
-Tager fat i data og sender det tilbage i en læsbar skrift. En måde at teste om din kode fungerer i din browser.
+*Tager fat i data og sender det tilbage i en læsbar skrift. En måde at teste om din kode fungerer i din browser.*
 
 ### Eksempel:
 
